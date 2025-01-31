@@ -35,7 +35,7 @@ Este projeto é um **Gerador de Frases Motivacionais** com funcionalidade para a
    ```
 2. Abra o arquivo index.html em seu navegador: Basta clicar no arquivo para visualizar a página.
 3. Gerar uma Citação: Clique no botão "Gerar Frase" para receber uma nova citação inspiradora. A frase será carregada automaticamente da API. Se a API estiver indisponível, uma frase local será mostrada.
-4.Alternar Tema: Clique no botão "Modo Escuro" ou "Modo Claro" para alternar entre os dois temas da interface.
+   4.Alternar Tema: Clique no botão "Modo Escuro" ou "Modo Claro" para alternar entre os dois temas da interface.
 
 ---
 
@@ -58,14 +58,16 @@ Fique à vontade para sugerir melhorias ou adicionar novos recursos!
 ---
 
 ## 📂 Estrutura de Diretórios
+
 gerador-citacoes/
-├── index.html          # Página principal
-├── styles.css          # Estilos da página
-├── script.js           # Lógica JavaScript
-├── assets/             # Imagens e outros recursos
-│   ├── mode-light.png  # Imagem do modo claro
-│   └── mode-dark.png   # Imagem do modo escuro
-└── README.md           # Este arquivo
+├── index.html # Página principal
+├── styles.css # Estilos da página
+├── script.js # Lógica JavaScript
+├── assets/ # Imagens e outros recursos
+│ ├── mode-light.png # Imagem do modo claro
+│ └── mode-dark.png # Imagem do modo escuro
+└── README.md # Este arquivo
 
 ## 🎨 Agradecimentos
+
 API quotable.io[https://github.com/lukePeavey/quotable] - Para fornecer citações inspiradoras.
